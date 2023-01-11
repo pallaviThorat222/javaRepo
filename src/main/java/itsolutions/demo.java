@@ -28,6 +28,8 @@ public class demo {
 		this.empName = empName;
 	}
 	
+private String empAddress;
+private Double empSalay;
 	
 
 }
